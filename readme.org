@@ -1,0 +1,9 @@
+* 一个利用Django写的博客系统
+
+  非常粗糙，没有什么具体的内容，主要是依据
+  
+  https://www.gitbook.com/book/andrew-liu/django-blog
+
+  所写。根据最新的Django1.9做了一些修改，以及修复了一些小Bug，可以作为参考。
+
+  感谢Andrew-liu的奉献
