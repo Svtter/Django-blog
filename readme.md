@@ -9,7 +9,7 @@
 
 - Python3.5
 - Django 
-- `使用pip install django安装即可`
+- `pip install -r requirements.txt`
 
 以上安装完成后，需要首先搞一下数据库
 
